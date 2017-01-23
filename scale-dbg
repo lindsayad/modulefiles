@@ -1,0 +1,5 @@
+#%Module1.0
+
+conflict scale-opt
+
+prepend-path	PATH	/home/lindsayad/scadbg/INSTALL/bin

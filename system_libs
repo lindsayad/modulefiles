@@ -1,0 +1,3 @@
+#%Module1.0
+
+setenv LIBMESH_DIR	/home/lindsayad/libmesh_vtk/installed

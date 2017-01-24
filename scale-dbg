@@ -2,4 +2,4 @@
 
 conflict scale-opt
 
-prepend-path	PATH	/home/lindsayad/scadbg/INSTALL/bin
+prepend-path	PATH	$HOME/scadbg/INSTALL/bin

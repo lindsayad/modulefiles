@@ -2,4 +2,4 @@
 
 conflict scale-dbg
 
-prepend-path	PATH	/home/lindsayad/scale/C834MNYCP02/SCALE-6.2.1/bin
+prepend-path	PATH	$HOME/scale/C834MNYCP02/SCALE-6.2.1/bin

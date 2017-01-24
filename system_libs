@@ -1,3 +1,4 @@
 #%Module1.0
 
-setenv LIBMESH_DIR	/home/lindsayad/libmesh_vtk/installed
+eval set  [ array get env HOME ]
+setenv LIBMESH_DIR	$HOME/libmesh_vtk/installed

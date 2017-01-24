@@ -1,0 +1,5 @@
+#%Module 1.0
+
+eval set [ array get env HOME ]
+
+append-path PATH $HOME/miniconda2/bin

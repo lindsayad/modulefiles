@@ -2,4 +2,4 @@
 
 eval set [ array get env HOME ]
 
-append-path PATH $HOME/miniconda2/bin
+prepend-path PATH $HOME/miniconda2/bin
